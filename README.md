@@ -53,6 +53,7 @@ pip install -r requirements.txt
 
 ## Status
 - Vegetation segmentation pipeline **complete & tested**
+Phase 2 + : In progress.
 - Outputs saved for RL integration
 - Project paused (next: Webots rule-based drone control)
 
